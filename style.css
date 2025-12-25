@@ -2,6 +2,12 @@ body {
      text-align : center;
 
 }
+.instructions{
+    display: none;
+}
+.How:hover .instructions {
+display: block;
+}
 .btn {
     height: 200px;
     width:  200px;
